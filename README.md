@@ -16,7 +16,6 @@
 Olá, eu me chamo [Júlio Armando](https://julioarmando.netlify.app/), programador javascript 🚀, formado em ciência da computação e atualmente estou desenvolvendo projetos pessoais com o intuito de ganhar experiência.
 
 **Mais:**
-- 👨🏽‍💻 Estou trabalhando em projeto interessante.
 - 🌱 Atualmente estudando front end em React
 - 🔎 Procurando uma oportunidade na área de desenvolvimento.
 - 📫 Para entrar em contanto comigo, email: julioarmando321@gmail.com
